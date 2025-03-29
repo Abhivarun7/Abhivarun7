@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning about **Artificial Intelligence, Machine Learning, Deep Learning, and Neural Networks**.
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/Abhivarun7).
 - 📫 How to reach me: **Varun8374041@gmail.com**.
-- 🌐 Visit my [Portfolio](https://protofolio-abhii-software-developerr.netlify.app/).
+- 🌐 Visit my [Protofolio](https://protofolio-abhii-software-developerr.netlify.app/).
 
 ---
 
